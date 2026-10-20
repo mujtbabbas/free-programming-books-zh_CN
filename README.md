@@ -13,6 +13,19 @@
 
 <p align="center"><img src="https://dl.deno.js.cn/buy-me-a-coffee-wechat.png" width="320" height="320" alt="" /></p>
 
+## About This Standalone Edition
+
+- **Main repository:** [justjavac/free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN)
+- **Based on version:** upstream release `3.0` (commit `cc1108ac90f53a1fd4f773b61f5c6b91b91389ca`, snapshotted 2026-10-20; upstream HEAD dated 2026-07-29)
+- **This edition:** v1.1.0 (v1.0.0 = clean baseline of the upstream version above)
+- **What was done:** Converted from a fork into a standalone repository (fresh history, baseline commit), then enhanced in place by Syed Mujtaba Abbas.
+- **Enhancements in this edition (v1.1.0):**
+  - This About section, with full upstream credit and version provenance
+  - `ENHANCEMENTS.md` — per-version changelog of everything changed in this edition
+  - `.github/dependabot.yml` — weekly GitHub Actions dependency updates
+  - `.markdownlint.json` + `.github/workflows/markdown-check.yml` — markdown linting automation for contributions
+- **Credit & licence:** All original work belongs to justjavac and the upstream contributors. Licence is preserved unchanged — see `LICENSE` (GPL-3.0). This edition adds the enhancements listed above only.
+
 ## 参与交流
 
 欢迎大家将珍藏已久的经典免费书籍共享出来，您可以：
